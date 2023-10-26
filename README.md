@@ -1,6 +1,6 @@
 👋 Hello, the name is Dolfy.
 
-🧑‍💻 Coder | 😊 Learning more |
+🧑‍💻 Coder | 😊 Learning more 
 
 # Stats
 [![Dolfy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Penoziosmoon&show_icons=True&theme=radical)](https://github.com/penozious/github-readme-stats)
